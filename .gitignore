@@ -1,0 +1,16 @@
+/.vscode/
+*__pycache__/
+*.ipynb_checkpoints/
+*.ipynb
+/conf/
+/conf/rsa/
+/conf/conn/
+/log/
+*.log
+/res/pro/
+/bin/*.py
+!template.*
+!logging.yaml
+!template_post.py
+!res/dev/*.yaml
+/rsa/
